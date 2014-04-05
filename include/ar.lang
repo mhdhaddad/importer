@@ -1,0 +1,6 @@
+<?PHP
+    define("HOME_PAGE", "الصفحة الرئيسية");
+    define("UPLOAD", "رفع");
+    define("DOWNLOAD", "تنزيل");
+    
+?>
